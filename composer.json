@@ -1,0 +1,19 @@
+{
+    "name": "aequasi/giantbomb-scraper",
+    "description": "Giantbomb Api Scraper",
+    "require": {
+        "symfony/yaml": "dev-master",
+        "uecode/uecode": "dev-master"
+    },
+	"autoload":          {
+		"psr-0": {
+			"": "src/"
+		}
+	},
+    "authors": [
+        {
+            "name": "Aaron Scherer",
+            "email": "aequasi@gmail.com"
+        }
+    ]
+}
